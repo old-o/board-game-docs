@@ -1,0 +1,22 @@
+|===
+| Name(s) | Type of game | Players | Popular in | Wikipedia page | Rules | Tutorial | Variations
+
+| Morabaraba / 12 Men Morris
+| Abstract strategy board game 
+| 2 players 
+| South Africa, Botswana
+| https://en.wikipedia.org/wiki/Morabaraba[Morabaraba] 
+| https://github.com/odoepner/board-game-docs/raw/master/morabaraba/12-men-morris.pdf[Printable PDF]
+| https://www.youtube.com/watch?v=y2q0z78N9bM[Youtube video, 3 minutes]
+| 9 Men Morris / Mühle
+
+| Oware Abapa - Mancala
+| Abstract strategy "pit and pebble" game
+| 2 players 
+| West Africa, Caribbean
+| https://en.wikipedia.org/wiki/Oware[Oware] 
+| https://github.com/odoepner/board-game-docs/raw/master/oware-abapa/oware-abapa.pdf[Printable PDF]
+| https://www.youtube.com/watch?v=p2RmoGg-d5Q[Youtube video, 6 minutes]
+| https://en.wikipedia.org/wiki/Mancala[Other Mancala games]
+
+|===
