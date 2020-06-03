@@ -1,15 +1,17 @@
 = Multicultural Board Games
 
 |===
-| Name(s) | Type of game | Players | Popular in | Wikipedia page | Rules | Tutorial | Variations
+| Name(s) | Type of game | Players | Popular in | Wikipedia page | Rules | Tutorial | Play | Variations
 
 | Morabaraba / 12 Men Morris
-| Abstract strategy board game 
+| Abstract strategy, using checker pieces 
 | 2 players 
 | South Africa, Botswana
 | https://en.wikipedia.org/wiki/Morabaraba[Morabaraba] 
 | https://github.com/odoepner/board-game-docs/raw/master/morabaraba/12-men-morris.pdf[Printable PDF]
+
 | https://www.youtube.com/watch?v=y2q0z78N9bM[Youtube video, 3 minutes]
+| 
 | 9 Men Morris / Mühle
 
 | Oware Abapa - Mancala
@@ -19,6 +21,32 @@
 | https://en.wikipedia.org/wiki/Oware[Oware] 
 | https://github.com/odoepner/board-game-docs/raw/master/oware-abapa/oware-abapa.pdf[Printable PDF]
 | https://www.youtube.com/watch?v=p2RmoGg-d5Q[Youtube video, 6 minutes]
+| https://omerkel.github.io/Oware/html5/src/
 | https://en.wikipedia.org/wiki/Mancala[Other Mancala games]
+
+| Bagh-chal - Goats and Tigers
+| Asymmetric strategic "hunt" game
+| 2 players 
+| Nepal
+| https://en.wikipedia.org/wiki/Bagh-Chal[Bagh-Chal] 
+| https://en.wikipedia.org/wiki/Bagh-Chal#Rules[Web page]
+| https://www.youtube.com/watch?v=7zHttwsM6xM[Youtube video, 8 minutes]
+| https://play.google.com/store/search?q=baghchal&c=apps[Android apps]
+| https://en.wikipedia.org/wiki/List_of_abstract_strategy_games#Hunting_games[Other "hunt" games]
+
+| Alquerque - Ancient checkers
+| Strategy game like checkers
+| 2 players 
+| Spain, New Mexico, Latin America
+| https://en.wikipedia.org/wiki/Alquerque[Alquerque] 
+| https://en.wikipedia.org/wiki/Alquerque#Rules[Web page]
+| https://www.youtube.com/watch?v=XvuIDP_N_ao[Youtube video, 1 minute]
+| https://omerkel.github.io/Alquerque/html5/src/[Free HTML5 game]
+| https://en.wikipedia.org/wiki/Alquerque#See_also[Related games]
+
+| Othello - Reversi
+| Abstract strategy
+| 2 players
+| https://omerkel.github.io/UCThello/html5/src/[Free HTML5 game]
 
 |===
