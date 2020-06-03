@@ -9,9 +9,8 @@
 | South Africa, Botswana
 | https://en.wikipedia.org/wiki/Morabaraba[Morabaraba] 
 | https://github.com/odoepner/board-game-docs/raw/master/morabaraba/12-men-morris.pdf[Printable PDF]
-
 | https://www.youtube.com/watch?v=y2q0z78N9bM[Youtube video, 3 minutes]
-| 
+| https://play.google.com/store/search?q=Morabaraba&c=apps&hl=en_CA[Android apps]
 | 9 Men Morris / Mühle
 
 | Oware Abapa - Mancala
@@ -21,7 +20,7 @@
 | https://en.wikipedia.org/wiki/Oware[Oware] 
 | https://github.com/odoepner/board-game-docs/raw/master/oware-abapa/oware-abapa.pdf[Printable PDF]
 | https://www.youtube.com/watch?v=p2RmoGg-d5Q[Youtube video, 6 minutes]
-| https://omerkel.github.io/Oware/html5/src/
+| https://omerkel.github.io/Oware/html5/src/[Free online game]
 | https://en.wikipedia.org/wiki/Mancala[Other Mancala games]
 
 | Bagh-chal - Goats and Tigers
@@ -35,18 +34,23 @@
 | https://en.wikipedia.org/wiki/List_of_abstract_strategy_games#Hunting_games[Other "hunt" games]
 
 | Alquerque - Ancient checkers
-| Strategy game like checkers
+| Strategy like checkers
 | 2 players 
 | Spain, New Mexico, Latin America
 | https://en.wikipedia.org/wiki/Alquerque[Alquerque] 
-| https://en.wikipedia.org/wiki/Alquerque#Rules[Web page]
+| https://en.wikipedia.org/wiki/Alquerque#Rules[Wikipedia]
 | https://www.youtube.com/watch?v=XvuIDP_N_ao[Youtube video, 1 minute]
-| https://omerkel.github.io/Alquerque/html5/src/[Free HTML5 game]
+| https://omerkel.github.io/Alquerque/html5/src/[Free online game]
 | https://en.wikipedia.org/wiki/Alquerque#See_also[Related games]
 
 | Othello - Reversi
 | Abstract strategy
 | 2 players
-| https://omerkel.github.io/UCThello/html5/src/[Free HTML5 game]
+| England, Japan, USA, etc
+| https://en.wikipedia.org/wiki/Reversi[Reversi]
+| https://en.wikipedia.org/wiki/Reversi#Rules[Wikipedia]
+| https://www.youtube.com/watch?v=jlll7wfEKaI[Youtube video, 5 minutes]
+| https://omerkel.github.io/UCThello/html5/src/[Free online game]
+| https://en.wikipedia.org/wiki/Gomoku[Gomoku]
 
 |===
